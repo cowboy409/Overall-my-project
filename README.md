@@ -3,6 +3,7 @@
 # CMOS amplifier –OrCAD
 Programmer, May  2016 – June 2016
 Designed several kinds of CMOS amplifier using OrCAD Linux version.
+https://drive.google.com/open?id=0B8bc6hb1KPXaWXZSNVZQTEhHSG8   ( Project Report & Nanocad Source Included )
 
 
 # Tetris – Microprocessor ( Coretex M3, Keil )
