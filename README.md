@@ -22,6 +22,8 @@ https://github.com/cowboy409/PC-based-Function-Generator-VHDL-/blob/master/1%20R
 # AM receiver and Sound Amplifier
 Programmer, May  2013 - June 2013
 Designed AM receiver with RLC circuits. The restriction was it should work without electricity. Designed AA class Sound Amplifier with analog components including transistor. Restriction was not using the power amp transistor.
+AM Receiver Circuit : https://drive.google.com/open?id=0B8bc6hb1KPXaUGVZc3psdHdmVnM
+AM Receiver Report : https://drive.google.com/open?id=0B8bc6hb1KPXaOEk4R2Z6THgxU00
 
 # Worm eating apple game - FPGA
 Programmer, October  2012 - November 2012
