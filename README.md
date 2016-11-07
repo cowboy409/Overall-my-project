@@ -14,7 +14,7 @@ https://github.com/cowboy409/Tetris-Keil/blob/master/README.md
 # Design and Analysis of Bulk-SI and Silicon-on-insulator(SOI) nMOSFETs
 Designer, October  2015 - November 2015
 Compared short channel bulk-Si with SOI and Designed constraints with performance targets. ( nMOSFET ) Simulate with Nanocad Dos version.
-https://drive.google.com/open?id=0B8bc6hb1KPXaWXZSNVZQTEhHSG8   ( Project Report & Nanocad Source Included )
+https://drive.google.com/open?id=0B8bc6hb1KPXaWXZSNVZQTEhHSG8  ( Project Report & Nanocad Source Included )
 
 # PCFG ( PC based Function Generator ) – FPGA 
 Programmer, October  2015 - November 2015 , Advanced Digital Circuit Course
