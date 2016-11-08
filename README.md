@@ -1,5 +1,8 @@
 # Jae Seung's Academic Project
 
+From 2011 to 2016.  
+The most impressive Project was PCFG( Xilinx-FPGA ) and Tetris ( Microprocessor-Cortex M3 ).
+
 # CMOS amplifier –OrCAD
 Designer, May  2016 – June 2016  
 Designed several kinds of CMOS amplifier using OrCAD Linux version.  
@@ -25,7 +28,7 @@ Compared short channel bulk-Si with SOI and Designed constraints with performanc
 Simulate with Nanocad Dos version.  
 https://drive.google.com/open?id=0B8bc6hb1KPXaWXZSNVZQTEhHSG8  ( Project Report & Nanocad Source Included )  
 
-# PCFG ( PC based Function Generator ) – FPGA 
+# ** PCFG ( PC based Function Generator ) – FPGA 
 Programmer, October  2015 - November 2015 , Advanced Digital Circuit Course  
 Developed PC based Function generator with Xilinx FPGA kit using VHDL language.  
 https://github.com/cowboy409/PC-based-Function-Generator-VHDL-/blob/master/1%20README.md  
