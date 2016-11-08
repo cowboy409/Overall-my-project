@@ -30,13 +30,19 @@ Programmer, October  2015 - November 2015 , Advanced Digital Circuit Course
 Developed PC based Function generator with Xilinx FPGA kit using VHDL language.  
 https://github.com/cowboy409/PC-based-Function-Generator-VHDL-/blob/master/1%20README.md  
 
-# AM receiver and Sound Amplifier
+# AM receiver and Audio Mixer & Amplifier
 Programmer, May  2013 - June 2013  
 Designed AM receiver with RLC circuits. The restriction was it should work without electricity.  
 Designed AA class Sound Amplifier with analog components including transistor.  
 Restriction was not using the power amp transistor.  
-AM Receiver Circuit : https://drive.google.com/open?id=0B8bc6hb1KPXaUGVZc3psdHdmVnM  
 AM Receiver Report : https://drive.google.com/open?id=0B8bc6hb1KPXaOEk4R2Z6THgxU00  
+Audio Mixer & Amplifier : https://drive.google.com/open?id=0B8bc6hb1KPXaODJZQXIyMmI0QVk  
+
+# Design MOSFET Amplifier  
+Designer, May 2013 - June 2013  
+Design Common Source, Common Gate, Source Follower MOSFET Amplifier and analysis  
+Report : https://drive.google.com/open?id=0B8bc6hb1KPXaaVhFTFNOZURxZW8  
+
 
 # Worm eating apple game - FPGA
 Programmer, October  2012 - November 2012  
