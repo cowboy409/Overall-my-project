@@ -8,7 +8,8 @@ Designed several kinds of CMOS amplifier using OrCAD Linux version.
 
 # Tetris – Microprocessor ( Coretex M3, Keil )
 Programmer, May  2016 – June 2016  
-Designed a Tetris game working on Microprocessor ( Coretex M3) using Language C and assembly. Used Keil program for coding.  
+Designed a Tetris game working on Microprocessor ( Coretex M3) using Language C and assembly.  
+Used Keil program for coding.  
 https://github.com/cowboy409/Tetris-Keil/blob/master/README.md  
 
 # Design and Analysis of Bulk-SI and Silicon-on-insulator(SOI) nMOSFETs
@@ -25,7 +26,8 @@ https://github.com/cowboy409/PC-based-Function-Generator-VHDL-/blob/master/1%20R
 # AM receiver and Sound Amplifier
 Programmer, May  2013 - June 2013  
 Designed AM receiver with RLC circuits. The restriction was it should work without electricity.  
-Designed AA class Sound Amplifier with analog components including transistor. Restriction was not using the power amp transistor.  
+Designed AA class Sound Amplifier with analog components including transistor.  
+Restriction was not using the power amp transistor.  
 AM Receiver Circuit : https://drive.google.com/open?id=0B8bc6hb1KPXaUGVZc3psdHdmVnM  
 AM Receiver Report : https://drive.google.com/open?id=0B8bc6hb1KPXaOEk4R2Z6THgxU00  
 
