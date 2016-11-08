@@ -3,7 +3,7 @@
 # CMOS amplifier –OrCAD
 Designer, May  2016 – June 2016  
 Designed several kinds of CMOS amplifier using OrCAD Linux version.  
-No report exists. Only the final picture exists.
+No report exists. Only the final picture exists.  
 https://drive.google.com/open?id=0B8bc6hb1KPXaN0JSOHNQZlZvS3M  
 
 # DSP Design Project - Windowing
