@@ -3,10 +3,13 @@
 # CMOS amplifier –OrCAD
 Programmer, May  2016 – June 2016  
 Designed several kinds of CMOS amplifier using OrCAD Linux version.  
+No report exists. Only the final picture exists.
+https://drive.google.com/open?id=0B8bc6hb1KPXaN0JSOHNQZlZvS3M  
 
-# DSP Design Project - Window
-Programmer, May 2016- June 2016
-By using Windowing, implement Quadrature modulation, Demodulation and analysis time domain & frequency domain.
+# DSP Design Project - Windowing
+Programmer, May 2016- June 2016  
+By using Windowing, implement Quadrature modulation, Demodulation and analysis time domain & frequency domain.  
+Implemented with MATLAB 2015.  
 https://drive.google.com/open?id=0B8bc6hb1KPXadm5hQXBESE1tVUU
 
 
