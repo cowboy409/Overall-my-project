@@ -35,6 +35,7 @@ AM Receiver Report : https://drive.google.com/open?id=0B8bc6hb1KPXaOEk4R2Z6THgxU
 Programmer, October  2012 - November 2012  
 Built a worm eating apple game with Quartus FPGA kit using VHDL.  
 Used 16*16 Dot-Matrix as a monitor and 4*4 keypad as input.  
+https://github.com/cowboy409/Worm-eating-apple-game-FPGA/blob/master/README.md
 
 
 # Equalizer using Electronic components
