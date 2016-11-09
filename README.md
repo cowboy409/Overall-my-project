@@ -1,7 +1,9 @@
 # Jae Seung's Academic Project
 
-From 2011 to 2016.  
-The most impressive Project was PCFG( Xilinx-FPGA ) and Tetris ( Microprocessor-Cortex M3 ).
+Jae Seung Won ( ID:20111526) 's Academic Project  
+Sogang University ( March 2011 ~ Dec 2017 )  
+
+The most impressive Project was PCFG( Xilinx-FPGA ) and Tetris ( Microprocessor-Cortex M3 ).  
 
 # CMOS amplifier –OrCAD
 Designer, May  2016 – June 2016  
