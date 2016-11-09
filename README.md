@@ -19,7 +19,7 @@ https://drive.google.com/open?id=0B8bc6hb1KPXaU3RiRGFhMkZ6NUk
 # Tetris – Microprocessor ( Coretex M3, Keil )
 Programmer, May  2016 – June 2016  
 Designed a Tetris game working on Microprocessor ( Coretex M3) using Language C and assembly.  
-Used Keil program for coding.  
+Used Keil program for coding. Made kit by ourselves with GPIO.  
 https://github.com/cowboy409/Tetris-Keil/blob/master/README.md  
 
 # Design and Analysis of Bulk-SI and Silicon-on-insulator(SOI) nMOSFETs
