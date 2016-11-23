@@ -1,6 +1,6 @@
-# Jae Seung's Academic Project
+# Jae Seung's Academic Group Project
 
-Jae Seung Won ( ID:20111526) 's Academic Project  
+Jae Seung Won ( ID:20111526) 's Academic Group Project ( 2 People in 1 Group)  
 Sogang University ( March 2011 ~ Dec 2017 )  
 
 The most impressive Project was PCFG( Xilinx-FPGA ) and Tetris ( Microprocessor-Cortex M3 ).  
